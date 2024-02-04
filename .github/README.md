@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=ffd700&center=true&lines=──+「+E+R+E+N」+──;An+Advanced+Group+Music+Bot.&width=600&height=180">
+  <img src="https://readme-typing-svg.herokuapp.com?color=ffd700&center=true&lines=──+「+E+R+E+N」+──;Noon+Developer+Hu+Bhai .&width=600&height=180">
 </div>
 
 <p align="center">
