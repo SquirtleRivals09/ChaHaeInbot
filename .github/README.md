@@ -1,10 +1,10 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=ffd700&center=true&lines=──+「+Cha+HaeIn+Music+」+──;An+Advanced+Group+Music+Bot.&width=600&height=180">
+  <img src="https://readme-typing-svg.herokuapp.com?color=ffd700&center=true&lines=──+「+E+R+E+N」+──;An+Advanced+Group+Music+Bot.&width=600&height=180">
 </div>
 
 <p align="center">
-  <img src="https://telegra.ph/file/8105ec1de73891183c639.jpg">
+  <img src="https://telegra.ph/file/54f9cad59bfb4435d8cd8.jpg">
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/3950340d4945d441722fa.jpg">
+  <img src="https://telegra.ph/file/9ecc3eb3e7eb1a8af64df.jpg">
 </p>
 
 <h3 align="center">
