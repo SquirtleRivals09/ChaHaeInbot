@@ -12,7 +12,7 @@
 <a href="https://github.com/Shauryanoobhai/ChaHaeInMusic/network/members"> <img src="https://img.shields.io/github/forks/Shauryanoobhai/ChaHaeInMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://github.com/Shauryanoobhai/ChaHaeInMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/Shauryanoobhai/ChaHaeInMusic/commits/AnonymousX1025"> <img src="https://img.shields.io/github/last-commit/Shauryanoobhai/ChaHaeInMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/Shauryanoobhai/ChaHaeInMusic/commits/AnonymousX1025"> <img src="https://img.shields.io/github/last-commit/SquirtleRivals09/ChaHaeInMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
